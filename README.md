@@ -2,6 +2,6 @@
 
 Set of recipes as given by my grandma.
 
-- pi11111zas (TODO)
+- pizas (TODO)
 - sauses (TODO)
 - reads (TODO)
